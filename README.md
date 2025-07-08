@@ -8,8 +8,8 @@ Daily Solutions of Leetcode and GFG POTD to maintain consistency and track progr
 
 | Date       | Platform | Problem                        | Language |
 |------------|----------|--------------------------------|----------|
-| 2025-07-08 | LeetCode | Two Sum                        | C++      |
-| 2025-07-08 | GFG      | Sum of Array Elements          | C++      |
+| 2025-07-08 | LeetCode | Max evt  attended                      | C++      |
+| 2025-07-08 | GFG      | Next Greater Element freq         | C++      |
 
 ---
 
